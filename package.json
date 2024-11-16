@@ -1,0 +1,14 @@
+{
+  "name": "seccion17_proyecto5_sass_applugares",
+  "version": "1.0.0",
+  "description": "Aplicacion de lugares turisticos",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
